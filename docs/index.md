@@ -1,4 +1,8 @@
 # About 
+
+![Resources](https://raw.githubusercontent.com/anujonthemove/anujonthemove.github.io/main/assets/images/programmer.jpg "Anuj")
+
+
 !!! about "About Me"
 
     Hello there! 👋
