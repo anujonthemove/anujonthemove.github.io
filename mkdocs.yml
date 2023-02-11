@@ -1,0 +1,88 @@
+site_name: Hello, I’m Anuj 👋
+site_description: Anuj Khandelwal's Personal Website
+
+theme:
+  name: material
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: material/tooltip-check
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: octicons/zap-16
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left
+  palette:
+    primary: black
+  
+  features:
+    - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/anujonthemove/
+    
+    - icon: fontawesome/brands/medium
+      link: https://www.medium.anujonthemove.com/
+    
+    - icon:  fontawesome/brands/github
+      link: https://github.com/anujonthemove
+
+  
+  
+  font:
+    text: Epilogue
+
+plugins: []
+
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+  - attr_list
+  - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # The BetterEm extension improves the detection of Markup to emphasize text in Markdown using special characters
+  - pymdownx.betterem
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+
+nav:
+  - About: 'index.md'
+  - 'My Experience': 
+    - 'Deep Learning - Computer Vision': 'deep-learning-computer-vision.md'
+    - 'Applied Machine Learning': 'applied-machine-learning.md'
+    - 'Advanced Driver Assistance Systems (ADAS)': 'advanced-driver-assistance-systems.md'
+    - 'Big Data' : 'big-data.md'
+    - 'Internet of Things(IoT)': 'internet-of-things.md'
+    - 'Web Development & Information Security': 'web-development-and-information-security.md'
+    - 'Hardware': 'hardware.md'
+    - 'Linux': 'Linux.md'
