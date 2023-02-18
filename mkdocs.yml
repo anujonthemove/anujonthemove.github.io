@@ -3,12 +3,14 @@ site_description: Anuj Khandelwal's Personal Website
 
 theme:
   name: material
+  font:
+    text: Epilogue
   icon:
     admonition:
       note: fontawesome/solid/note-sticky
-      abstract: fontawesome/solid/book
-      info: fontawesome/solid/circle-info
-      tip: material/tooltip-check
+      abstract: fontawesome/regular/bookmark
+      info: simple/awesomelists
+      tip: material/fire
       success: fontawesome/solid/check
       question: fontawesome/solid/circle-question
       warning: fontawesome/solid/triangle-exclamation
@@ -22,6 +24,12 @@ theme:
   
   features:
     - navigation.footer
+    - navigation.instant
+    - navigation.top
+    - navigation.tracking
+    - navigation.tabs.sticky
+    # - navigation.sections
+    - navigation.expand
 
 extra:
   social:
@@ -33,11 +41,6 @@ extra:
     
     - icon:  fontawesome/brands/github
       link: https://github.com/anujonthemove
-
-  
-  
-  font:
-    text: Epilogue
 
 plugins: []
 
@@ -79,10 +82,10 @@ nav:
   - About: 'index.md'
   - 'My Experience': 
     - 'Deep Learning - Computer Vision': 'deep-learning-computer-vision.md'
-    - 'Applied Machine Learning': 'applied-machine-learning.md'
-    - 'Advanced Driver Assistance Systems (ADAS)': 'advanced-driver-assistance-systems.md'
-    - 'Big Data' : 'big-data.md'
-    - 'Internet of Things(IoT)': 'internet-of-things.md'
-    - 'Web Development & Information Security': 'web-development-and-information-security.md'
+  #   - 'Applied Machine Learning': 'applied-machine-learning.md'
+  #   - 'Advanced Driver Assistance Systems (ADAS)': 'advanced-driver-assistance-systems.md'
+  #   - 'Big Data' : 'big-data.md'
+  #   - 'Internet of Things(IoT)': 'internet-of-things.md'
+  #   - 'Web Development & Information Security': 'web-development-and-information-security.md'
     - 'Hardware': 'hardware.md'
-    - 'Linux': 'Linux.md'
+  #   - 'Linux': 'Linux.md'

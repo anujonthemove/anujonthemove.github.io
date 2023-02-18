@@ -3,7 +3,7 @@
 ![Resources](https://raw.githubusercontent.com/anujonthemove/anujonthemove.github.io/main/assets/images/programmer.jpg "Anuj")
 
 
-!!! about "About Me"
+!!! note "About Me"
 
     Hello there! 👋
 
@@ -23,19 +23,32 @@
 
 
 
+!!! quote inline "Connect with me 🤝"
+    👉 [Career Guidance](https://topmate.io/anujonthemove)
+    
+    👉 [Freelance](https://calendly.com/anujonthemove/30min)
+    
+    👉 [Consulting work](https://forms.gle/YyVYjrjz54Jky39h9)
 
-!!! danger "Checkout my other work and Pet Projects"
 
-    ??? tip "Resources"
-        [Resources]()
+!!! tip "Checkout my other work and Pet Projects"
 
-    ??? tip "Data Structures & Algorithms Guide"
+        
+
+    ??? abstract "Data Structures & Algorithms Guide"
+        In progress
+
         [Data Structures & Algorithms Guide](https://www.anujonthemove.com/Data-Structures-and-Algorithms-Python/)
 
-    ??? tip "Machine Learning Interview Handbook"
+    ??? abstract "Machine Learning Interview Handbook"
+        In progress
+       
         [Machine Learning Interview Handbook](https://www.anujonthemove.com/Machine-Learning-Interview-Handbook/)
+    
 
-    ??? tip "Software Engineering Handbook"
-        [Software Engineering Handbook]()
-    
-    
+    ??? warning "Software Engineering Handbook"
+        Coming soon...!!
+        
+    ??? warning "Computer Science Resources"
+        Coming Soon...!!
+
