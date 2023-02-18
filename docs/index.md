@@ -1,6 +1,6 @@
 # About 
 
-![Resources](https://raw.githubusercontent.com/anujonthemove/anujonthemove.github.io/main/assets/images/programmer.jpg "Anuj")
+![Resources](https://raw.githubusercontent.com/anujonthemove/anujonthemove.github.io/main/docs/assets/images/programmer.jpg "Anuj")
 
 
 !!! note "About Me"
