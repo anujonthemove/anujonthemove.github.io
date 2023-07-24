@@ -9,7 +9,7 @@ theme:
     admonition:
       note: fontawesome/solid/note-sticky
       abstract: fontawesome/regular/bookmark
-      info: simple/awesomelists
+      info: octicons/info-16
       tip: material/fire
       success: fontawesome/solid/check
       question: fontawesome/solid/circle-question
@@ -30,6 +30,8 @@ theme:
     - navigation.tabs.sticky
     # - navigation.sections
     - navigation.expand
+    - toc.integrate
+    - toc.follow
 
 extra:
   social:
@@ -51,10 +53,10 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 markdown_extensions:
+  # - footnotes
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
   - attr_list
   - md_in_html
   - pymdownx.critic
@@ -73,19 +75,28 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-  - pymdownx.superfences
+  
+  - pymdownx.superfences:
+      custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true 
+  
+  - toc:
+      toc_depth: 0
+
 
 
 nav:
-  - About: 'index.md'
+  - About Me: 'index.md'
   - 'My Experience': 
-    - 'Deep Learning - Computer Vision': 'deep-learning-computer-vision.md'
-  #   - 'Applied Machine Learning': 'applied-machine-learning.md'
-  #   - 'Advanced Driver Assistance Systems (ADAS)': 'advanced-driver-assistance-systems.md'
-  #   - 'Big Data' : 'big-data.md'
-  #   - 'Internet of Things(IoT)': 'internet-of-things.md'
-  #   - 'Web Development & Information Security': 'web-development-and-information-security.md'
+    - 'Computer Vision': 'computer-vision.md'
+    - 'Applied Machine Learning': 'applied-machine-learning.md'
+    - 'Advanced Driver Assistance Systems (ADAS)': 'advanced-driver-assistance-systems.md'
+    - 'Big Data' : 'big-data.md'
+    - 'Internet of Things(IoT)': 'internet-of-things.md'
+    - 'Web Development & Information Security': 'web-development-and-information-security.md'
     - 'Hardware': 'hardware.md'
-  #   - 'Linux': 'Linux.md'
+    - 'Operating Systems': 'operating-systems.md'

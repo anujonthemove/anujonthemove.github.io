@@ -1,6 +1,6 @@
-# Hardware
+# **🖥️ Hardware**
 
-## Imaging Devices
+## **📸 Imaging Devices**
 
 **I have experience with the calibration of stereo cameras, 3D cameras, and fisheye cameras.**
 
@@ -75,4 +75,3 @@
         <figcaption>Image caption</figcaption>
         </figure>   
 
-## Computing Devices
