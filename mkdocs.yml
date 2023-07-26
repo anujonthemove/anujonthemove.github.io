@@ -2,6 +2,8 @@ site_name: Hello, I’m Anuj 👋
 site_description: Anuj Khandelwal's Personal Website
 
 theme:
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.ico
   name: material
   font:
     text: Epilogue
@@ -43,6 +45,8 @@ extra:
     
     - icon:  fontawesome/brands/github
       link: https://github.com/anujonthemove
+    
+  generator: false
 
 plugins: []
 
