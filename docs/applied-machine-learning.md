@@ -10,7 +10,7 @@ The study involved the classification of defects based on Time Domain and Freque
 
 1. **Feature Extraction and Classification:** I extracted essential _Time Domain_ and _Frequency Domain_ features from the vibration response data. These features served as critical inputs for the Machine Learning models used for defect classification.
 
-2. **Machine Learning Model Selection:** The project involved an in-depth exploration of traditional Machine Learning algorithms, including **Linear Regression, Logistic Regression, k-Nearest Neighbors, Naïve Bayes, Support Vector Machines**, and **Tree-based methods** such as **Decision Trees, Random Forest,** and **XGBoost**.
+2. **Machine Learning Model Selection:** The project involved an in-depth exploration of traditional Machine Learning algorithms, including **Linear Regression, Logistic Regression, k-Nearest Neighbors, Naïve Bayes, Support Vector Machines**, and **Tree-based methods** such as **Decision Trees, and Random Forest**.
 
 3. **Results:** By employing the Random Forest algorithm, I achieved an impressive accuracy of approximately 92% in the defect classification task.
 
