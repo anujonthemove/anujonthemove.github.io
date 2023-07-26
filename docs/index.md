@@ -21,12 +21,31 @@ __Hello, I am Anuj 🙋‍♂️!__
 
 🧑‍🏫 Whether it's solving complex problems or delving into the latest tech trends, I find joy and fulfillment in pushing the boundaries of what's possible!
 
+____
+
+!!! quote inline "Connect with me 🤝"
+    👉 [Career Guidance](https://topmate.io/anujonthemove)
+    
+    👉 [Freelance](https://calendly.com/anujonthemove/30min)
+    
+    👉 [Consulting work](https://forms.gle/YyVYjrjz54Jky39h9)
 
 
 
+!!! tip "Checkout my work"
+
+    ??? abstract "Python Machine Learning Template"
+
+        [Python Machine Learning Template](https://github.com/anujonthemove/Python-Machine-Learning-Template)
 
 
+    ??? abstract "Data Structures & Algorithms Guide"
+        In progress
 
+        [Data Structures & Algorithms Guide](https://www.anujonthemove.com/Data-Structures-and-Algorithms-Python/)
+
+
+____
 
 !!! danger "Career Highlights"
     ??? tip "Video Enabled Decision & Alerts(VEDA)"
@@ -56,36 +75,3 @@ __Hello, I am Anuj 🙋‍♂️!__
             * My activity on  [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6708319485427875840/)
 
             * A word of praise by [Association of Data Scientists](https://www.linkedin.com/feed/update/urn:li:activity:6708983422179778560/)
-
-
-
-
-!!! quote inline "Connect with me 🤝"
-    👉 [Career Guidance](https://topmate.io/anujonthemove)
-    
-    👉 [Freelance](https://calendly.com/anujonthemove/30min)
-    
-    👉 [Consulting work](https://forms.gle/YyVYjrjz54Jky39h9)
-
-
-
-!!! tip "Checkout my other work and Pet Projects"
-
-        
-
-    ??? abstract "Data Structures & Algorithms Guide"
-        In progress
-
-        [Data Structures & Algorithms Guide](https://www.anujonthemove.com/Data-Structures-and-Algorithms-Python/)
-
-    ??? abstract "Machine Learning Interview Handbook"
-        In progress
-       
-        [Machine Learning Interview Handbook](https://www.anujonthemove.com/Machine-Learning-Interview-Handbook/)
-    
-
-    ??? warning "Software Engineering Handbook"
-        Coming soon...!!
-        
-    ??? warning "Computer Science Resources"
-        Coming Soon...!!
